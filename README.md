@@ -8,5 +8,5 @@
 * [The Cloudcast #280 - DevOps from the Enterprise](http://www.thecloudcast.net/2016/11/the-cloudcast-280-devops-from-enterprise.html)
 
 # talks and videos
-* [https://youtu.be/1xBZ5DGZZmQ](Keynote: Cloud Native Networking- Amin Vahdat, Fellow & Technical Lead For Networking, Google)
+* [Keynote: Cloud Native Networking- Amin Vahdat, Fellow & Technical Lead For Networking, Google](https://youtu.be/1xBZ5DGZZmQ)
   * Where you get a very quick overview of Google D4 WAN network, Andromeda NFV, Jupiter DC networking and Expresso SDN peering
