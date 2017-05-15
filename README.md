@@ -6,7 +6,8 @@
 * [SE-Radio Episode 270: Brian Brazil on Prometheus](http://www.se-radio.net/2016/10/se-radio-episode-270-brian-brazil-on-prometheus-monitoring/)
 * [SE-Radio Episode 276: Björn Rabenstein on Site Reliability Engineering](http://www.se-radio.net/2016/12/se-radio-episode-276-bjorn-rabenstein-on-site-reliability-engineering/)
 * [The Cloudcast #280 - DevOprom the Enterprise](http://www.thecloudcast.net/2016/11/the-cloudcast-280-devops-from-enterprise.html)
-* http://blog.ipspace.net/2016/06/build-your-own-service-provider-gear-on.html?m=1
+* [Build Your Own Service Provider Gear on Software Gone Wild](http://blog.ipspace.net/2016/06/build-your-own-service-provider-gear-on.html?m=1)
+> Where you learn that you can build your own network devices and have fun doing it
 
 # talks and videos
 * [Keynote: Cloud Native Networking- Amin Vahdat, Fellow & Technical Lead For Networking, Google](https://youtu.be/1xBZ5DGZZmQ)
