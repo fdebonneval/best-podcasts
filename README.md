@@ -12,5 +12,7 @@
 # talks and videos
 * [Keynote: Cloud Native Networking- Amin Vahdat, Fellow & Technical Lead For Networking, Google](https://youtu.be/1xBZ5DGZZmQ)
   * Where you get a very quick overview of Google D4 WAN network, Andromeda NFV, Jupiter DC networking and Expresso SDN peering
+* [Tutorial: Tutorial Everything You Always Wanted to Know About Optical Networking](https://youtu.be/_KFpXuHqHQg)
+  * Optical netowrking 101
 * [@Scale network traffic visibility and anomaly detection](https://code.facebook.com/posts/1709127516080157/networking-scale-boston/)
 * [Chef Style DevOps Kungfu - Adam Jacob Keynote - ChefConf 2015](https://youtu.be/_DEToXsgrPc)
