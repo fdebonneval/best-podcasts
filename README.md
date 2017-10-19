@@ -16,3 +16,5 @@
   * Optical netowrking 101
 * [@Scale network traffic visibility and anomaly detection](https://code.facebook.com/posts/1709127516080157/networking-scale-boston/)
 * [Chef Style DevOps Kungfu - Adam Jacob Keynote - ChefConf 2015](https://youtu.be/_DEToXsgrPc)
+* [High Altitude Platforms for Rural Backhaul](https://www.facebook.com/atscaleevents/videos/1904383316501430/)
+  * Amazing talk given by Adit Sahasrabudhe (Facebook). Pure hardware pron
