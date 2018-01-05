@@ -20,3 +20,4 @@
   * Amazing talk given by Adit Sahasrabudhe (Facebook). Pure hardware pron
 * [Packet Fabric on Software Gone Wild](http://blog.ipspace.net/2017/06/packet-fabric-on-software-gone-wild.html)
   * Network automation pushed hard
+* [High Altitude Platforms for Rural Backhaul - Adit Sahasrabudhe, Facebook](https://www.facebook.com/atscaleevents/videos/1904383316501430/)
